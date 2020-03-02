@@ -62,4 +62,6 @@
                 </nav> <!-- end #nav-wrap -->
             </div>
         </div>
+
+        <?php wp_head(); ?>
     </header> <!-- Header End -->
