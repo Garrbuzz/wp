@@ -17,6 +17,6 @@
 
 	}
 	function theme_register_nav_menu(){
-		register_nav_menu( 'topMenu', 'Навігація');
+		register_nav_menu( 'topMenu', 'Навігація в хедері');
 	}
 ?>

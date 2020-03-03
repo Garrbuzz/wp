@@ -1,6 +1,6 @@
     <!-- footer
    ================================================== -->
-    <footer>
+    <footer id = "footer">
         <div class="row">
             <div class="twelve columns">
                 <ul class="footer-nav">
